@@ -90,7 +90,7 @@
   "config.show_flags": "Çeviri kodlarıyla beraber eşleşen bayrağı göster",
   "config.sort_keys": "JSON/YAML dosyasına kaydederken çeviri anahtarlarını diz",
   "config.sort_compare": "Anahtarlara göre sıralama stratejisi.",
-  "config.sort_locale": "Dil dosyaları sıralama kullanıyorsa yerel ayarlar kullanılır (belirtilmezse dosyanın kendi ayarları kullanılır)"
+  "config.sort_locale": "Dil dosyaları sıralama kullanıyorsa yerel ayarlar kullanılır (belirtilmezse dosyanın kendi ayarları kullanılır)",
   "config.source_language": "Makine çevirisi için kaynak dil",
   "config.tab_style": "Dil dosyaları için Tab stili",
   "config.target_picking_strategy": "Birden fazla dil dosyası bulunduğunda uygulanacak strateji",
